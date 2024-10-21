@@ -1,2 +1,4 @@
 # Primer_Repositorio
-Este mi primer repositorio en el cual estaran disponibles mis practicas
+Este Repositorio es propiedad de:Barrza Galarza Gabriel Abisahyd
+En Este Repositorio estaran disponibles mis practicas de la segunda unidad,realizadas en PHP
+
